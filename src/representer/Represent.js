@@ -16,7 +16,7 @@ const Represent = (props) => {
                 <h3>Total Summery</h3>
                 <h3>Total Author: {props.represents.length}</h3>
                 <br></br>
-                <h4>Total delegation fee: {total} $</h4>
+                <h4>Total Representation fee: {total} $</h4>
                 <br></br>
                 {
                     represents.map(representSingle => <h5>{representSingle.name}<br /></h5>)
