@@ -1,0 +1,13 @@
+.header {
+    color: lightslategray;
+    background-color: wheat;
+    text-align: center;
+    margin-top: 5px;
+    width: 90%;
+    border-radius: 20px;
+    margin-left: 70px;
+}
+
+.heart-patient{
+    color: red;
+}
